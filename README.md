@@ -9,7 +9,6 @@ You can view my portfolio here: [https://thirumalesamthumburu-jpg.github.io/port
 - **Framework:** Flutter (Web & Mobile)
 - **Language:** Dart
 - **State Management:** Clean Architecture & Clean Framework
-- **Backend:** Firebase (Edit as per your project)
 
 ## 📌 About Me
 Experienced Software Engineer focused on building high-quality, performant cross-platform applications.
