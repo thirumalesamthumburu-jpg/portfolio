@@ -1,6 +1,6 @@
 # portfolio
 
-A new Flutter project.
+Thumburu Thirumalesam | Software Engineer | Virtusa | Flutter Project.
 
 ## Getting Started
 
